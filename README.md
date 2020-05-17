@@ -9,9 +9,15 @@ It will also remove commas (like 1,200 will become 1200) so that casting into fl
 example
 
 ./check-bill.py
+
 20 Mar 21 Mar CASHBACK 20.79CR
+
 20 Mar 21 Mar ABC PTE LTD SINGAPORE SG 77032423 10.02
+
 25 Mar 26 Mar ABC FINEST SINGAPORE SG 88032423 11.95
+
 ^D
+
 Total:
+
 1.18
